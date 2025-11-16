@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "type": "income",
+      "money": 5000,
+      "date": "2022-10-20 00:00:00",
+      "useFor": "salary"
+    },
+    {
+      "id": 2,
+      "type": "expend",
+      "money": 150,
+      "date": "2022-10-21 00:00:00",
+      "useFor": "shopping"
+    },
+    {
+      "id": 3,
+      "type": "income",
+      "money": 100,
+      "date": "2022-10-22 00:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "id": 4,
+      "type": "expend",
+      "money": 80,
+      "date": "2022-10-23 00:00:00",
+      "useFor": "dining"
+    },
+    {
+      "id": 5,
+      "type": "expend",
+      "money": 200,
+      "date": "2022-10-24 00:00:00",
+      "useFor": "transportation"
+    },
+    {
+      "id": 6,
+      "type": "expend",
+      "money": 1000,
+      "date": "2022-10-25 00:00:00",
+      "useFor": "rent"
+    },
+    {
+      "id": 7,
+      "type": "expend",
+      "money": 50,
+      "date": "2022-10-26 00:00:00",
+      "useFor": "groceries"
+    },
+    {
+      "id": 8,
+      "type": "income",
+      "money": 200,
+      "date": "2022-10-27 00:00:00",
+      "useFor": "freelance"
+    },
+    {
+      "id": 9,
+      "type": "expend",
+      "money": 30,
+      "date": "2022-10-28 00:00:00",
+      "useFor": "entertainment"
+    },
+    {
+      "id": 10,
+      "type": "income",
+      "money": 100,
+      "date": "2022-10-29 00:00:00",
+      "useFor": "gift"
+    }
+  ]
+}

@@ -1,74 +1,114 @@
 {
   "data": [
     {
-      "id": 1,
-      "type": "income",
-      "money": 5000,
-      "date": "2022-10-20 00:00:00",
-      "useFor": "salary"
+      "type": "pay",
+      "money": -99,
+      "date": "2022-10-24 10:36:42",
+      "useFor": "drinks",
+      "id": 1
     },
     {
-      "id": 2,
-      "type": "expend",
-      "money": 150,
-      "date": "2022-10-21 00:00:00",
-      "useFor": "shopping"
+      "type": "pay",
+      "money": -88,
+      "date": "2022-10-24 10:37:51",
+      "useFor": "longdistance",
+      "id": 2
     },
     {
-      "id": 3,
       "type": "income",
       "money": 100,
       "date": "2022-10-22 00:00:00",
-      "useFor": "bonus"
+      "useFor": "bonus",
+      "id": 3
     },
     {
-      "id": 4,
-      "type": "expend",
-      "money": 80,
-      "date": "2022-10-23 00:00:00",
-      "useFor": "dining"
+      "type": "pay",
+      "money": -33,
+      "date": "2022-09-24 16:15:41",
+      "useFor": "dessert",
+      "id": 4
     },
     {
-      "id": 5,
-      "type": "expend",
-      "money": 200,
-      "date": "2022-10-24 00:00:00",
-      "useFor": "transportation"
+      "type": "pay",
+      "money": -56,
+      "date": "2022-10-22T05:37:06.000Z",
+      "useFor": "drinks",
+      "id": 5
     },
     {
-      "id": 6,
-      "type": "expend",
-      "money": 1000,
-      "date": "2022-10-25 00:00:00",
-      "useFor": "rent"
+      "type": "pay",
+      "money": -888,
+      "date": "2022-10-28T08:21:42.135Z",
+      "useFor": "travel",
+      "id": 6
     },
     {
-      "id": 7,
-      "type": "expend",
-      "money": 50,
-      "date": "2022-10-26 00:00:00",
-      "useFor": "groceries"
-    },
-    {
-      "id": 8,
       "type": "income",
-      "money": 200,
-      "date": "2022-10-27 00:00:00",
-      "useFor": "freelance"
+      "money": 10000,
+      "date": "2023-03-20T06:45:54.004Z",
+      "useFor": "salary",
+      "id": 7
     },
     {
-      "id": 9,
-      "type": "expend",
-      "money": 30,
-      "date": "2022-10-28 00:00:00",
-      "useFor": "entertainment"
+      "type": "pay",
+      "money": -10,
+      "date": "2023-03-22T07:17:12.531Z",
+      "useFor": "drinks",
+      "id": 8
     },
     {
-      "id": 10,
+      "type": "pay",
+      "money": -20,
+      "date": "2023-03-22T07:51:20.421Z",
+      "useFor": "dessert",
+      "id": 9
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-03-22T09:18:12.898Z",
+      "useFor": "drinks",
+      "id": 17
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2023-03-23T09:11:23.312Z",
+      "useFor": "food",
+      "id": 18
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-04-04T03:03:15.617Z",
+      "useFor": "drinks",
+      "id": 19
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2023-04-02T16:00:00.000Z",
+      "useFor": "food",
+      "id": 20
+    },
+    {
       "type": "income",
-      "money": 100,
-      "date": "2022-10-29 00:00:00",
-      "useFor": "gift"
+      "money": 10000,
+      "date": "2023-02-28T16:00:00.000Z",
+      "useFor": "salary",
+      "id": 21
+    },
+    {
+      "type": "pay",
+      "money": -20,
+      "useFor": "drinks",
+      "id": 22
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "useFor": "",
+      "id": 23
     }
   ]
 }

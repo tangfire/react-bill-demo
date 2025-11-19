@@ -6,6 +6,7 @@ import dayjs from 'dayjs'
 import { useSelector } from 'react-redux'
 import { useMemo } from 'react'//对数据进行计算 类似vue的计算属性
 import _ from 'lodash'
+import DailyBill from './components/DayBill/index.jsx'
 
 const Month = () => {
     // 按月做数据的分组
@@ -117,6 +118,12 @@ const Month = () => {
                         max={new Date()}
                     />
                 </div>
+                {/*单日列表统计*/}
+                {
+                    dayGroup.keys.map(key => {
+                        return <DailyBill key={key} date={key} billList={dayGroup.groupData[key]}></DailyBill>
+                    })
+                }
             </div>
         </div >
     )

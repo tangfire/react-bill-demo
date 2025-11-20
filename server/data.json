@@ -382,6 +382,37 @@
       "type": "pay",
       "money": -121,
       "useFor": "drinks"
+    },
+    {
+      "id": "d274",
+      "type": "pay",
+      "money": -121,
+      "date": "2025-11-19T16:00:00.000Z",
+      "useFor": "taxi"
+    },
+    {
+      "id": "9e71",
+      "type": "pay",
+      "money": -12,
+      "useFor": "taxi"
+    },
+    {
+      "id": "7494",
+      "type": "pay",
+      "money": -12,
+      "useFor": "taxi"
+    },
+    {
+      "id": "7ec6",
+      "type": "pay",
+      "money": -12,
+      "useFor": "taxi"
+    },
+    {
+      "id": "7652",
+      "type": "pay",
+      "money": -27,
+      "useFor": "dessert"
     }
   ]
 }

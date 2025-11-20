@@ -5,7 +5,7 @@ import classNames from 'classnames'
 import { billListData } from '@/contants'
 import { useNavigate } from 'react-router-dom'
 import { useState } from 'react'
-
+import {addBillList} from "@/store/modules/billStore.js";
 import { useDispatch } from 'react-redux'
 import dayjs from 'dayjs'
 
